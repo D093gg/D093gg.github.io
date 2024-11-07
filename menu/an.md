@@ -16,7 +16,7 @@ In contemporary society, we are confronted with a myriad of bizarre imbalances a
 
 #### Writing
 
-I write poems, where I only care about three issues that are Chinese land, Chinese language, and people. While all languages are losing the primitive and instinctive **bond** with our minds, we have to reshape and rebuild it through dicovering and activating the creativity. Poems focus on language the purest way, which makes them uninterpretable. But trying to translate still matters, and I will do this. Now I am hoping to publish my second collections.
+I write poems, where I only care about three issues that are Chinese land, Chinese language, and people. While all languages are losing the primitive and instinctive **bond** with our minds, we have to reshape and rebuild it through dicovering and activating the creativity of words. Poems focus on language the purest way, which makes them uninterpretable. But trying to translate still matters, and I will do this. Now I am hoping to publish my second collections.
 
 #### Music
 
