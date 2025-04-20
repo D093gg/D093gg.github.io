@@ -1,8 +1,8 @@
 ---
 ---
 
-$sans-serif-font-family: "Lato regular", sans-serif;
-$serif-font-family:      "Source Serif", "Times New Roman", serif;
+$sans-serif-font-family: "Lato regular", "Roboto", sans-serif;
+$serif-font-family:      "Merriweather", Georgia, "Times New Roman", serif;
 $code-font-family:       "Source Code Pro", monospace;
 
 $body-color:             #505050;
@@ -16,7 +16,7 @@ $light-gray-color:       #999;
 $extra-light-gray-color: #ccc;
 
 $container-responsive-width: 900px;
-$elements-responsive-width:  30em;
+$elements-responsive-width:  40em;
 
 $icon-transition-time: .5s;
 $envelope-color:       #f39c12;
