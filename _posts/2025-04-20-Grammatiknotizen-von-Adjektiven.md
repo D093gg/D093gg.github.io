@@ -3,7 +3,7 @@ layout: post
 title: "Grammatiknotizen von Akjektiven 德语之形容词法考略"
 author: "An"
 categories: Posts
-tags: [notes], [language]
+tags: [notes]
 image: title1.jpg
 ---
 
