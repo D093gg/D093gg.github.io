@@ -71,6 +71,7 @@ image: title1.jpg
 | G | groß**en** Mannes | klein**en** Kindes | schön**er** Frau | Nett**er** Leute |
 
 还有一些词之后的形容词词尾变化与零冠词后的一样：
+
 - 数词：einige, einzelne, mehrere, wiele, wenige, ein paar, 2以上的数字 （+ 复数）
 - etwas, viel, wenig（+ 单数）
 - 人名，关系代词（从句），疑问代词wessen
@@ -79,20 +80,24 @@ image: title1.jpg
 ### 一些特殊变化
 
 1. el，变化时去掉-e。
+
 	- dunkel: eine **dunkle** Nacht, auf der **dunklen** Straße
 	- komfortabel: das **komfortable** Wohnhaus
 
 2. vokal + er，变化时去掉-e。
+
 	- teuer: ein **teurer** Wagen
 	- sauer: **saure** Trauben
 	- 辅音 + er就可以不去掉：**bittere** Mandel
 
 3. en，作定语时有时可以去掉-e。
+
 	- trocken: ein **trocknes** Hemd
 
 4. 一些与数字、地名、产品相关的-er形容词词尾不变化。
 
 5. 形容词在量词之后强变化；如果是复数名词，形容词词尾通常按复数二格变化。
+	
 	- Es gibt **eine Menge ausländischer Studenten**.
 
 更多特殊情况：[沪江德语教研组：形容词词尾变化（二）](https://de.hujiang.com/new/p632813/)
@@ -110,15 +115,18 @@ image: title1.jpg
 #### 词尾变化
 
 1. 以-el, -er, -en结尾的形容词省略-e；但是，以-en结尾的动词第二分词用作形容词比较级时-e不去掉。
+	
 	- sensibel/sensib**ler**, teuer/teu**rer**, trocken/trock**ner**
 	- gelungen/gelungen**er**
 
 2. 词干元音是a, o, u的单音节词，大部分构成比较级需要变音（同理，最高级也一样）。
+	
 	- alt/älter, jung/jünger, stark/stärker, grob/gröber...
 		(arg, arm, hart, kalt, klug, lang, schwach, warm, kurz, scharf...)
 	- 少数不变音的：voll, laut, schlank
 
 3. 一些不规则的词：
+	
 	- hoch/höher/höchst, nahe/näher/nächst
 	- gut/besser/best, viel/mehr/meist
 
@@ -127,15 +135,19 @@ image: title1.jpg
 1. **-er + als**
 
 2. **bedeutend / entschieden / wesentlich / viel / weit + -er + als**，表示加强比较程度
+
 	- Meine Übersetzung war entschieden/wesentlich besser als deine.
 
 3. **etwas / um weiniges + -er + als**，表示减弱的比较程度
-    - Dieser Koffer ist etwas schwerer als der da.
+
+	- Dieser Koffer ist etwas schwerer als der da.
 
 4. 比较级可以转移到说明程度的词上：**weniger**（通常表示否定的语气）**/ mehr / eher ... als**
-    - Unsere Stadt ist weniger schön als Saltzburg.
+
+	- Unsere Stadt ist weniger schön als Saltzburg.
 
 5. **je + -er, desto/umso + -er**，“越……，就越……”句型
+
 	- Je mehr man arbeitet, umso müder ist man.
 
 6. **werden + immer + -er**，事物变得越来越
@@ -150,11 +162,13 @@ image: title1.jpg
 1. 一般 -st/-est
 
 2. 以-d, -s, -sch, -ß, -t, -x, -z结尾的形容词需加-est，例如：
+
 	- wild/wild**est**, der/die/das wildeste
 	- frisch/frisch**est**, der/die/das frischeste
 	- süß/süß**est**, der/die/das süßeste
 	
 	然而，有一些情况只加-st：以-d和-t结尾的动词分词用作形容词、以-isch结尾的多音节形容词、以-el和-er结尾的形容词。
+
 	- passend/passend**st**, gefürchtet/gefürchtet**st**
 	- komisch/komisch**st**
 	- sauer/sauer**st**, edel/edel**st**
@@ -170,10 +184,12 @@ image: title1.jpg
 2. 最高级前加上序数词直接成为复合词，如die zweigrößst Volkswirtschaft, die drittgrößst Stadt；也可以加上aller表示巅峰程度，如der allerhöchste Gipfel, die allerneuesten Nachrichten.
 
 3. **am + -sten**，作状语和表语时，最高级于-est/-st后再加上-en，词前加am：
+
 	- Der Sessel ist **am bequemsten** .
 	- Auf Autobahnen kann man **am schellsten** fahren.
 
 4. **aufs + 最高级**，用作状语，语义上突出非常而不是比较：
+
 	- Sie haben das Zimmer **aufs festlichste** eingerichtet.
 
 5. 最高级前添加副词加强语气，如bei weitem, weiaus, denkbar, ganz besonders.
@@ -181,6 +197,7 @@ image: title1.jpg
 6. 用**nicht + 最高级**或**am weinigsten + 原级**表示否定的意思。
 
 7. 一些在书信交流中的固定用法：
+
 	- mit freundlichsten/besten Gruessen
 	- Ich werde mein Moeglischstes tun.
 
@@ -191,12 +208,14 @@ image: title1.jpg
 ### 名词用A
 
 表示度量、尺寸、年龄之类意义的形容词，要求与A格名词连用，如：alt, breit, dick, tief, schwer, weit, entfrent, wert.
+
 - Das Baby ist erst einen Monat alt.
 - Die Sache ist keinen Pfennig wert.
 
 ### 名词用D
 
 表示程度、感受等意义的形容词，与D格名词连用。类似于英语中的“sth is *how* to sth”，to sth对应Dativ。这种支配关系也**可以用für + A替换**。这些形容词包括ähnlich, fremd, dankbar, verständlich, wichtig, bekannt, schädlich.
+
 - Wir sind **Ihnen sehr dankbar** .
 aber: Ich bin **für das Geschenk dankbar**.
 - Seine Erklärung war **den Schülern verständlich**.
@@ -214,6 +233,7 @@ aber: Ich bin **für das Geschenk dankbar**.
 有趣的是，越来越多形容词支配D, A名词的用法，正在被这种介词搭配结构代替，屈折越来越偏向分析化，类似接近现代英语。
 
 1. **an + A/D**
+
 	- Er ist **an den Vertrag gebunden**. (A)
 	- Ich bin **an der Deutschen Literatur interessiert**. (D)
 
@@ -223,46 +243,57 @@ aber: Ich bin **für das Geschenk dankbar**.
 	- Bist du **auf deinem linken Auge blind**? (D)
 
 3. **bei + D**
+
 	- Diese Mode ist bei den jungen Leuten sehr beliebt.
 
 4. **für + A**，与上述形容词支配D名词的用法一样，可互换。常见的可以与für连用的形容词有：angenehm, bedeutsam, empfänglich, entscheidend, passend, verständlich, geeignet, interessant, nachteilig, nötig, notwendig.
+
 	- Das ist **egal (für mich/mir)**.
 	- Die Eltern müssen **(für ihre Kinder/ihren Kindern) verantwortlich** sein.
 
 5. **gegen + A**
+
 	- Du bist sehr empfindlich gegen Kritik.
 	- Die Kinder sind anfällig gegen die Erkältung.
 
 6. **in + A/D**
+
 	- Er ist in das Mädchen ganz verliebt. (A)
 	- Er ist in allen handwerklichen Arbeiten sehr geschickt. (D)
 
 7. **mit + D**，常用形容词有：bekannt, beschäftigt, fertig, vergleichbar, verheiratet, verwandt.
 
 8. **über + A**，通常表示个人的情绪和心情，同时取代了一部分形容词支配二格名词的用法。常用的这类形容词有：befremdet, ärgerlich, froh,  glücklich, traurig, erfreut, beschämt.
+
 	- Wir waren über seinen Erfolg froh. / Wir wurden seines Erfolgs froh. 
 
 9. **um +A**
+
 	- Sie ist um die Gesundheit ihrer Tochter besorgt.
 
 10. **von + D**
+
 	- Unser Reiseplan ist vom Wetter abhängig. 
 	- Das ist nett von Ihnen.
 
 11. **vor + D**
+
 	- Sie wurde vor Zorn blass.
 
 12. **zu + D**
+
 	- Alle sind freundlich zu dem alten Mann.
 	- Wir sind zur abfahrt bereit.
 
 ### 从句结构
 
 1. **ob/dass从句**，在形容词后，与英语差不多。可以理解为表语补足语性质的从句，也可以理解为一起作为表语成分，呈现副词的作用。
+
 	- Ich bin neugierig, ob mein Freund den Zug noch erreicht hat.
 	- Der Vater ist stolz darauf, dass sein Sohn Prüfung gut bestanden hat.
 
 2. **+ zu V**，和英语中的"adj. + to do sth"一样。
+
 	- Die zwei neuen Angestellten sind fähig, die Aufgabe bald zu bewältigen.
 
 ## 总结
