@@ -7,9 +7,9 @@ permalink: /research
 ## Research Interests
 
 Environmental Fate and Transport of Emerging Contaminants (EC)\
-Microbes and Ecosystems under the Presence of EC\
 Novel Methods for Unified and Standardized Research on EC\
 Agricultural pollution, Urban pullution\
+Data Science in Environment
 Modeling, Water Quality and Treatment...
 
 ---
