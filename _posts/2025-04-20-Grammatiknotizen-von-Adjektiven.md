@@ -1,4 +1,15 @@
-# 德语之形容词法考略 --Adjektive 
+﻿---
+layout: post
+title: "Grammatiknotizen von Akjektiven 德语之形容词法考略"
+author: "An"
+categories: Posts
+tags: [notes], [language]
+image: title1.jpg
+---
+
+
+
+# 德语之形容词法考略
 
 任何语言的形容词法，都围绕词形变化、比较级和最高级、句中用法、词性扩展和移用四个方面。在德语中，前两者取决于性数格，带来一些词尾变化；句中用法较为简单，与作表语成分的句式息息相关；也有一些形容词作名词的灵活用法，但无需多言。
 
