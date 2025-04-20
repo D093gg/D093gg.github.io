@@ -47,6 +47,11 @@
   @include social-media-icon($wechat-color, $icon-transition-time);
 }
 
+.fa-music {
+  padding: 5px;
+  @include social-media-icon($music-color, $icon-transition-time);
+}
+
 .fa-facebook {
   padding: 5px;
   @include social-media-icon($facebook-color, $icon-transition-time);
