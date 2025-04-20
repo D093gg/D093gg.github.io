@@ -238,6 +238,7 @@ aber: Ich bin **für das Geschenk dankbar**.
 	- Ich bin **an der Deutschen Literatur interessiert**. (D)
 
 2. **auf + A，少数情况 + D**
+
 	- Mein Sohn ist nicht **auf meine Hilfe angeweisen**. (A)
 	- Alle sind **auf das Wahlergebnis neugierig**. (A)
 	- Bist du **auf deinem linken Auge blind**? (D)
