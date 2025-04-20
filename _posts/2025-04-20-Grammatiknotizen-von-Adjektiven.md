@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "Grammatiknotizen von Akjektiven 德语之形容词法考略"
+title: "Grammatiknotizen von Akjektiven"
 author: "An"
 categories: Posts
 tags: [notes]
@@ -141,7 +141,7 @@ image: title1.jpg
 6. **werden + immer + -er**，事物变得越来越
 
 *一个比较反常的例子：
-![比较级的反常例子](/imgs/2025-04-18/8932gbTXaj5I4h9r.png)
+![比较级的反常例子](assets/img/imgs/8932gbTXaj5I4h9r.png)
 
 ### Superlativ 最高级
 
